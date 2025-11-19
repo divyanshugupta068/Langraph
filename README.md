@@ -223,7 +223,7 @@ docker run -p 8000:8000 langgraph-assistant:latest
 
 ## 📄 License
 
-MIT License © 2025 — Created by **[Shashank Kumar]**
+MIT License © 2025 — Created by **[Divyanshu Gupta]**
 
 ---
 
@@ -231,6 +231,7 @@ MIT License © 2025 — Created by **[Shashank Kumar]**
 
 Feel free to reach out for questions or collaboration opportunities!
 
-- **GitHub:** [@GEEGEEGOOGOO](https://github.com/GEEGEEGOOGOO)
-- **Email:** shashank181002@gmail.com
-- **LinkedIn:** [MyProfile](https://linkedin.com/in/shashank1810)
+- **GitHub:** [@Divyanshugupta](https://github.com/divyanshugupta068)
+- **Email:** divyanshugupta068@gmail.com
+
+
